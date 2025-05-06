@@ -2,8 +2,8 @@ export const BaseInfo = {
   name: "Raman Tamang",
   position: "Full Stack Web Developer",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro numquam ad, vero consequuntur aperiam cumque voluptatum pariatur veniam? Qui facilis est ipsam odio cum!",
-  profilePic: "/images/hero.png",
+    "I'm a passionate Full-Stack Developer with experience in building modern web applications using technologies like Next.js, React, TypeScript, and Node.js. I love turning ideas into real-world solutions with clean code, responsive design, and intuitive UX.",
+  profilePic: "/images/hero.webp",
 };
 
 export const aboutInfo = {
@@ -232,7 +232,7 @@ export const blogs = [
 ];
 
 export const contactData = {
-  phone: "+88(012345 789)",
-  email: "example@gmail.com",
-  address: "Dhaka , Bangladesh",
+  phone: "+977 9808247633",
+  email: "ramantamang556@gmail.com",
+  address: "Kathmandu, Nepal",
 };
