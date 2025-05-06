@@ -7,9 +7,9 @@ export const BaseInfo = {
 };
 
 export const aboutInfo = {
-  title: "Crafting Web Application with Passion and Precision",
+  title: "Turning Ideas Into Powerful Web Solutions",
   description:
-    "At webdev warriors, we’re a dedicated team of designers and developers committed to delivering tailored web solutions. With a blend of creativity and technical expertise, we help businesses elevate their online presence and achieve their goals",
+    "With a strong focus on detail and functionality, I design and develop web applications that blend performance with creativity. Whether it’s building from scratch or improving an existing product, I aim to deliver seamless, user-friendly experiences using modern tools like Next.js, React, and Node.js.",
   client: "50+",
   experience: "3+",
   project: "200+",
