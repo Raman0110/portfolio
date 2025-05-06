@@ -3,7 +3,6 @@
 import { useEffect } from "react"
 import About from "./About/About"
 import Contact from "./Contact/Contact"
-import Footer from "./Footer/Footer"
 import Hero from "./Hero/Hero"
 import Project from "./Project/Project"
 import Reviews from "./Reviews/Reviews"
